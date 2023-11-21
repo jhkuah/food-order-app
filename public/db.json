@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "765a3b30-1d9e-4c08-adfd-3c1dbd75d9ae",
+      "name": "Gigi Ho",
+      "email": "gigi@yahoo.com.my"
+    },
+    {
+      "id": "3795512b-61b2-40df-bd4d-e8f09775eca2",
+      "name": "Jung Jin Toh",
+      "email": "taenyforever97+4@gmail.com"
+    },
+    {
+      "id": "d0dbb660-08ba-4842-8a88-05247e33f3d4",
+      "name": "Konni",
+      "email": "konni@gmail.com"
+    },
+    {
+      "id": "cbb8ddea-b881-40aa-a2a4-5cfbde214e99",
+      "name": "Kroni",
+      "email": "mamama@gmail.com"
+    }
+  ],
+  "meals": [
+    {
+      "id": "m1",
+      "title": "Sushi",
+      "description": "Fish and rice",
+      "price": 1.99,
+      "image": "https://cdn.tasteatlas.com/Images/Dishes/fde953e5aa504e8c83a84691582b0399.jpg?m=facebook"
+    },
+    {
+      "id": "m2",
+      "title": "Chicken Chop",
+      "description": "Chicken cutlet with fries",
+      "price": 10.99,
+      "image": "https://www.sidechef.com/recipe/bf2ae123-0553-4605-a564-e790d69d29fb.jpg?d=1408x1120"
+    }
+  ]
+}

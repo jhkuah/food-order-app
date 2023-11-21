@@ -1,0 +1,14 @@
+.meals-item {
+  max-width: 200px;
+  margin: 1rem;
+  display: inline-block;
+
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+@media (min-width: 768px) {
+  .meals-item {
+    width: calc(25% - 2rem);
+  }
+}

@@ -1,0 +1,15 @@
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  text-align: center;
+}
